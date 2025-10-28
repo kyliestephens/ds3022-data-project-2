@@ -1,4 +1,4 @@
 #Ignore
-git.ignore
+.gitignore
 Pipfile
 Pipfile.lock
